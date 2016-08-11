@@ -1,0 +1,28 @@
+name: Comic Book Tales
+favicon: null
+layout_spectrum: 0.37255542376078665
+typography_spectrum: 0.11346550239250064
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8648256564047188
+  lightness: 0.7788615846075118
+  saturation: 0.9822142145130783
+  rhythmicContrast: 0.4290521126240492
+purpose: []
